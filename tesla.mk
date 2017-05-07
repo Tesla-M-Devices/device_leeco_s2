@@ -20,7 +20,7 @@ $(call inherit-product, device/leeco/s2/full_s2.mk)
 # Inherit some common Tesla stuff.
 $(call inherit-product, vendor/tesla/config/common_full_phone.mk)
 $(call inherit-product, vendor/tesla/config/caf_fw.mk)
-$(call inherit-product, vendor/tesla/configs/common.mk)
+$(call inherit-product, vendor/tesla/config/common.mk)
 
 ## Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := s2
