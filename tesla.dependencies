@@ -7,12 +7,12 @@
   {
     "repository": "otisman/android_kernel_leeco_msm8976",
     "target_path": "kernel/leeco/msm8976",
-    "branch": "cm-14.x"
+    "branch": "tesla"
   },
   {
     "repository": "TheMuppets/proprietary_vendor_leeco",
     "target_path": "vendor/leeco",
-    "branch": "n7.1"
+    "branch": "cm-14.1"
   },
   {
     "repository": "LineageOS/android_hardware_sony_thermanager",
